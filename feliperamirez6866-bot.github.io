@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Felipe Antonio Ramírez Riveros | Portafolio Jurídico</title>
+
+<style>
+body{
+    font-family: 'Segoe UI', sans-serif;
+    margin:0;
+    background:#f4f6f9;
+    color:#222;
+    line-height:1.6;
+}
+
+header{
+    background:#0f172a;
+    color:white;
+    text-align:center;
+    padding:60px 20px;
+}
+
+header h1{
+    margin:0;
+    font-size:2.8rem;
+}
+
+header p{
+    font-size:1.1rem;
+}
+
+.container{
+    max-width:1100px;
+    margin:auto;
+    padding:20px;
+}
+
+.card{
+    background:white;
+    padding:25px;
+    margin:20px 0;
+    border-radius:12px;
+    box-shadow:0 2px 8px rgba(0,0,0,.08);
+}
+
+h2{
+    color:#0f172a;
+    border-bottom:2px solid #e5e7eb;
+    padding-bottom:10px;
+}
+
+.button{
+    display:inline-block;
+    padding:12px 18px;
+    margin:5px;
+    background:#1d4ed8;
+    color:white;
+    text-decoration:none;
+    border-radius:8px;
+}
+
+.button:hover{
+    background:#1e40af;
+}
+
+ul{
+    padding-left:20px;
+}
+
+footer{
+    text-align:center;
+    padding:30px;
+    color:#666;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>Felipe Antonio Ramírez Riveros</h1>
+    <p>Egresado de Derecho | Investigador Jurídico | Derecho Tributario | Litigación | Derecho y Tecnología</p>
+
+    <a class="button" href="https://www.linkedin.com/in/FelipeAntonioRamirez" target="_blank">
+        LinkedIn
+    </a>
+</header>
+
+<div class="container">
+
+<div class="card">
+<h2>Perfil Profesional</h2>
+
+<p>
+Egresado de Derecho de la Universidad Autónoma de Chile con experiencia en investigación jurídica,
+litigación académica y participación como expositor en congresos nacionales e internacionales.
+Interesado en Derecho Tributario, Derecho Concursal, regulación financiera y nuevas tecnologías,
+especialmente en la intersección entre Derecho e Inteligencia Artificial.
+</p>
+
+</div>
+
+<div class="card">
+<h2>Formación Académica</h2>
+
+<p>
+<strong>Universidad Autónoma de Chile</strong><br>
+Derecho – Egresado
+</p>
+
+<p>
+Áreas de interés:
+</p>
+
+<ul>
+<li>Derecho Tributario</li>
+<li>Derecho Concursal</li>
+<li>Litigación</li>
+<li>Investigación Jurídica</li>
+<li>Regulación Financiera</li>
+</ul>
+
+</div>
+
+<div class="card">
+<h2>Experiencia Académica</h2>
+
+<ul>
+<li>Participante y colaborador de la Sociedad de Litigación UA.</li>
+<li>Estudiante investigador del Instituto de Investigación de la Universidad Autónoma de Chile.</li>
+<li>Participación en proyectos de investigación jurídica.</li>
+</ul>
+
+</div>
+
+<div class="card">
+<h2>Ponencias y Congresos</h2>
+
+<ul>
+<li>
+<strong>V Jornadas de Inteligencia Artificial y Derecho (2025)</strong><br>
+Ponencia: "La imprevisión en tiempos de blockchain: análisis de su aplicabilidad a los smart contracts".
+</li>
+
+<li>
+<strong>Congreso Internacional e Interdisciplinario de Derecho e Ingeniería en Inteligencia Artificial (2025)</strong><br>
+Ponente invitado.
+</li>
+
+<li>
+<strong>Cuarto Coloquio Internacional de Estudiantes ALACDE (2026)</strong><br>
+Expositor y participante en Medellín, Colombia.
+</li>
+
+</ul>
+
+</div>
+
+<div class="card">
+<h2>Competencias</h2>
+
+<ul>
+<li>Redacción de escritos judiciales.</li>
+<li>Investigación doctrinal y jurisprudencial.</li>
+<li>Tramitación y seguimiento de causas.</li>
+<li>Manejo avanzado de Microsoft Word.</li>
+<li>Manejo intermedio de Excel.</li>
+<li>Manejo intermedio de Claude Code.</li>
+<li>Bases de datos jurídicas.</li>
+</ul>
+
+</div>
+
+<div class="card">
+<h2>Idiomas</h2>
+
+<ul>
+<li>Español: Nativo.</li>
+<li>Inglés: Nivel B1.</li>
+</ul>
+
+</div>
+
+<div class="card">
+<h2>Certificados</h2>
+
+<p>Haz clic para visualizar los certificados:</p>
+
+<a class="button" href="certificados/Blockchain.pdf" target="_blank">
+Blockchain y Smart Contracts
+</a>
+
+<a class="button" href="certificados/DerechoIA.pdf" target="_blank">
+Derecho e Inteligencia Artificial
+</a>
+
+<a class="button" href="certificados/ALACDE2026.pdf" target="_blank">
+ALACDE Colombia 2026
+</a>
+
+</div>
+
+</div>
+
+<footer>
+© 2026 Felipe Antonio Ramírez Riveros
+</footer>
+
+</body>
+</html>
